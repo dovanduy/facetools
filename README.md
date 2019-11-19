@@ -11,5 +11,5 @@
 • cd facetools</br>
 • python Fb.py</br>
 <h2>CONTACT :</h2>
-<a href="https://www.facebook.com/dulahz">Facebook</a></br>
-<a href="https://t.me/unikers">Telegram</a></br>
+<a href="https://www.facebook.com/dulahz">- Facebook</a></br>
+<a href="https://t.me/unikers">- Telegram</a></br>
