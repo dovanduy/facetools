@@ -22,7 +22,7 @@ br.set_handle_referer(True)
 br.set_handle_robots(False)
 br.set_handle_refresh(mechanize._http.HTTPRefreshProcessor(),max_time=1)
 br.addheaders = [('User-Agent', headers),('Referer', 'https://mbasic.facebook.com/'),('Connection', 'keep-alive')]
-up = '2.1'
+up = '2.1' #//
 
 if sys.platform in ['linux','linux2']:
 	C = '\033[1;96m'
