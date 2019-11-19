@@ -6,7 +6,7 @@
 <h2>INSTALLING :</h2>
 • pip install --upgrade pip<br>
 • pkg install python git<br>
-• pip install requests mechanize cookiejar bs4 clint prompt
+• pip install requests mechanize cookiejar bs4 clint prompt_toolkit
 <h2>RUN :</h2>
 • cd facetools</br>
 • python Fb.py</br>
