@@ -55,7 +55,10 @@ class Dump:
 				fil = open('result/dump/email/hotmail.txt','a')
 				fil.write(b['email']+'\n')
 				fil.close()
-				self.hotmail.append(W + b['email'])
+				try:
+					self.hotmail.append(W + b['email'] + ' -> ' + b['birthday'].replace('/','-'))
+				except KeyError:
+					self.hotmail.append(W + b['email'] + ' -> --')
 			
 			elif '@gmail.com' in str(b['email']):
 				fil = open('result/dump/email/gmail.txt','a')
