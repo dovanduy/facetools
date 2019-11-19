@@ -1,15 +1,4 @@
-# facebook toolskit v2.0
+![Python|3.7](https://img.shields.io/badge/Python-3.7-magenta.svg)
 
-# Install
-• pkg install python git
-
-• pip install --upgrade pip
-
-• pip install requests mechanize cookiejar bs4 clint prompt
-
-• git clone https://github.com/dz-id/facetools
-
-# Run
-• cd facetools
-
-• python Fb.py (use python version 3)
+<div>Facebook Toolskit
+<img src='https://github.com/dz-id/facetools/blob/master/screenshoot/IMG_20191119_232437.jpg'/></div>
