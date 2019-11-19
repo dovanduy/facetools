@@ -66,8 +66,8 @@ def Log():
 
 def update():
 	try:
-		req = requests.get('https://raw.githubusercontent.com/dz-id/facebook-toolskit/master/version.txt').text
-		if req == str(up):
+		req = requests.get('https://raw.githubusercontent.com/dz-id/facetools/master/version.txt').text
+		if str(req) == str(up):
 			y = input(W + '\n[' + G + '*' + W + '] backup folder like: result? [y/n] : '+G)
 			if y.lower() == 'y':
 				try:
@@ -144,13 +144,13 @@ try:
 	banner()
 	token = open('log/token').read()
 	z = requests.get('https://graph.facebook.com/me?access_token=' + token, headers = HD)
-	ver = requests.get('https://raw.githubusercontent.com/dz-id/facebook-toolskit/master/version.txt').text
+	ver = requests.get('https://raw.githubusercontent.com/dz-id/facetools/master/version.txt').text
 	s = json.loads(z.text)
 	name = s['name']
 	try:
 		userid = s['username']
 	except: userid = s['id']
-	if up == str(ver):
+	if str(up) == str(ver):
 		print(Y + ' available new version',str(up))
 	print(W + "\n  {" + G + "+" + W + "} version 2.0")
 	print(W + "  {" + G + "+" + W + "} type 'rm' for remove access token")
