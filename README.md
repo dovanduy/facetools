@@ -21,3 +21,12 @@
 <h2>CONTACT :</h2>
 <a href="https://www.facebook.com/dulahz">- Facebook</a></br>
 <a href="https://t.me/unikers">- Telegram</a></br>
+<p>CARA BIAR LOLOS LOGIN TERMOS<p>
+Login dichrome menggunakan mode desktop jangan lupa catat tanggal lahir diakun takunya nanti kalo cp tebak tanggal lahir
+jika sudah login, logout. lanjut login di fb biru/fb ori jika sudah logout lagi aktifin vpn server brazil/us btw gue pake ultra shark vpn.
+login lagi dichrome pake vpn nah jika pas login akunya cp matikan vpn selesain security checknya jika sudah kebuka akunya logout dan login lagi menggunkan
+vpn nah jika sudah lolos login pake vpn baru login diremos. login ditermos wajib pake vpn yang kusebut tadi. kalo masih cp ulangi cara diatas
+inget pas sudah berhasil login ditermos jangan matin vpn kalo dimatiin vpnya akunya bakal logout sendiri alhasil access tokenya ikut invalid.
+okelah itu aja gue bingung ngejelasinya :V
+oh iya kalo pake akun baru gak usah pake vpn dah lah intinya mark kntll.. :v
+
