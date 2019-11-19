@@ -4,9 +4,17 @@
 <br>Auto Report
 <img src="https://github.com/dz-id/facetools/blob/master/screenshoot/IMG_20191119_232453.jpg"/>
 <h2>INSTALLING :</h2>
+• pkg update && pkg upgrade<br>
+• pkg install python<br>
+• pkg install git<br>
 • pip install --upgrade pip<br>
-• pkg install python git<br>
-• pip install requests mechanize cookiejar bs4 clint prompt_toolkit
+• pip install requests<br>
+• pip install mechanize<br>
+• pip install cookiejar<br>
+• pip install bs4<br>
+• pip install clint<br>
+• pip install prompt_toolkit<br>
+• git clone https://github.com/dz-id/facetools<br>
 <h2>RUN :</h2>
 • cd facetools</br>
 • python Fb.py</br>
