@@ -21,7 +21,7 @@
 <h2>CONTACT :</h2>
 <a href="https://www.facebook.com/dulahz">- Facebook</a><br>
 <a href="https://t.me/unikers">- Telegram</a><br>
-<p>CARA BIAR LOLOS LOGIN TERMOS<p>
+<br><p>CARA BIAR LOLOS LOGIN TERMOS<p>
 Login dichrome menggunakan mode desktop jangan lupa catat tanggal lahir diakun takunya nanti kalo cp tebak tanggal lahir
 jika sudah login, logout. lanjut login di fb biru/fb ori jika sudah logout lagi aktifin vpn server brazil/us btw gue pake ultra shark vpn.
 login lagi dichrome pake vpn nah jika pas login akunya cp matikan vpn selesain security checknya jika sudah kebuka akunya logout dan login lagi menggunkan
