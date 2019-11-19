@@ -1,7 +1,7 @@
 ![Python|3.7](https://img.shields.io/badge/Python-3.7-magenta.svg)
 <div>Facebook Toolskit v2.0
-<img src="https://github.com/dz-id/facetools/blob/master/screenshoot/IMG_20191119_232437.jpg"/></div><br>
-<h1>Auto Report</h1>
+<img src="https://github.com/dz-id/facetools/blob/master/screenshoot/IMG_20191119_232437.jpg"/></div>
+<br>Auto Report
 <img src="https://github.com/dz-id/facetools/blob/master/screenshoot/IMG_20191119_232453.jpg"/>
 <h2>INSTALLING :</h2>
 • pip install --upgrade pip<br>
