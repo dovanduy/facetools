@@ -5,6 +5,7 @@
 # Copyright: (©) 2019  DulLah
 # Hargailah Sejelek Apapun Itu:V
 
+#//
 import os, sys, time, requests, mechanize, hashlib, json, shutil
 from data import Clr
 from prompt_toolkit.shortcuts import prompt
